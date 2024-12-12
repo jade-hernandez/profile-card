@@ -64,7 +64,7 @@ const ProfileCard: React.FC<ProfileCardProps> = ({
         </div>
         <div className="text-center flex flex-col gap-1">
           <h2 className="text-xl text-neutral-900 font-semibold">{name}</h2>
-          <p className="text-neutral-600">{role}</p>
+          <p className="text-neutral-600 text-sm">{role}</p>
         </div>
         <p className="text-neutral-600 text-center">{bio}</p>
       </div>
