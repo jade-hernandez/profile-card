@@ -1,7 +1,7 @@
 {
-  "name": "playground",
+  "name": "profile-card",
   "version": "0.1.0",
-  "description": "A playground for testing out new technologies",
+  "description": "A profile card component",
   "private": true,
   "author": "Jade Hernandez",
   "license": "ISC",
